@@ -4,7 +4,7 @@
 
 > **Note**
 >
-> To use Azhn in your project to generate PNG images like Open Graph images and social cards, check out our [announcement](https://ekjotsinghmakhija.com/blog/introducing-ekjotsinghmakhija-og-image-generation-fast-dynamic-social-card-images) and [Vercel’s Open Graph Image Generation →](https://ekjotsinghmakhija.com/docs/concepts/functions/edge-functions/og-image-generation)
+> To use Azhn in your project to generate PNG images like Open Graph images and social cards, check out our [announcement](https://ekjotsinghmakhija.com/blog/introducing-ekjotsinghmakhija-og-image-generation-fast-dynamic-social-card-images) and [Azhn’s Open Graph Image Generation →](https://ekjotsinghmakhija.com/docs/concepts/functions/edge-functions/og-image-generation)
 >
 > To use it in Next.js, take a look at the [Next.js Open Graph Image Generation template →](https://ekjotsinghmakhija.com/templates/next.js/og-image-generation)
 
