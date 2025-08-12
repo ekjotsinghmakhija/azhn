@@ -1,0 +1,15 @@
+node_modules
+.DS_Store
+.ekjotsinghmakhija
+.vscode
+.next
+.idea
+.turbo
+dist
+.pnpm-debug.log
+__diff_output__
+.eslintcache
+coverage
+
+playground/public/yoga.wasm
+playground/tsconfig.tsbuildinfo
