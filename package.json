@@ -1,5 +1,5 @@
 {
-  "name": "Azhn",
+  "name": "azhn",
   "version": "0.0.1",
   "description": "Enlightened library to convert HTML and CSS to SVG.",
   "module": "./dist/index.js",

@@ -1067,17 +1067,9 @@ export default function Playground() {
             <title>Azhn</title>
             <path d='M 90 15 L 51 24 L 89 28 L 51 33 L 90 42 H 44 l 0 -27 z'></path>
           </svg>
-          OG Image Playground
+          AZHN OG Image Playground
         </h1>
         <ul>
-          <li>
-            <a href='https://ekjotsinghmakhija.com/docs/concepts/functions/edge-functions/og-image-generation'>
-              Docs
-            </a>
-          </li>
-          <li>
-            <a href='https://nextjs.org/discord'>Discord</a>
-          </li>
           <li>
             <a href='https://github.com/ekjotsinghmakhija/azhn'>GitHub</a>
           </li>

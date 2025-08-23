@@ -11,22 +11,21 @@ export default function Introduction({ onClose }: IProps) {
       <p>👋 Welcome to the Azhn OG Image playground!</p>
       <p style={{ flex: 1 }}>
         You can use this tool to test and preview OG image cards generated with{' '}
-        <code>@ekjotsinghmakhija/og</code>. To learn more about how to add it to
-        your project, please read{' '}
+        <code>@azhn/og</code>.{' '}
         <a
-          href='https://ekjotsinghmakhija.com/docs/concepts/functions/edge-functions/og-image-generation'
+          href='https://github.com/ekjotsinghmakhija/azhn'
           target='_blank'
           rel='noreferrer'
         >
-          our documentation
-        </a>{' '}
-        or the{' '}
+          Show your love ❤️, give a Star ⭐
+        </a>
+        . Made with love ❤️ by{' '}
         <a
-          href='https://ekjotsinghmakhija.com/blog/introducing-ekjotsinghmakhija-og-image-generation-fast-dynamic-social-card-images'
+          href='https://github.com/ekjotsinghmakhija'
           target='_blank'
           rel='noreferrer'
         >
-          announcement post
+          <code>Ekjot Singh</code>
         </a>
         .
       </p>
